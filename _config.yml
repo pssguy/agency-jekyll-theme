@@ -1,15 +1,27 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+# --- General options --- #
 
-# Site settings
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://pssguy.github.io"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
 title: myTinyShinys
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
+# Short description of your site
+description: Business site. Creating interactive web apps and general R training
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Dean Attali
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +32,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Jenny Bryan
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +43,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Andrew Clark
   pic: 3
   position: Lead Developer
   social:
