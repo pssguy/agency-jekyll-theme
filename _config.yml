@@ -21,9 +21,9 @@ description: Business site. Creating interactive web apps and general R training
 
 # Team names, titles and social links
 people:
-- name: Dean Attali
-  pic: 1
-  position: Lead Designer
+- name: Jenny Bryan
+  pic: jenny
+  position: Associate - Educator
   social:
     - title: twitter
       url: #
@@ -32,20 +32,20 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Jenny Bryan
-  pic: 2
-  position: Lead Marketer
+- name: Andrew Clark
+  pic: oliverHardy2
+  position: Owner
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/pssGuy
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/andrew-clark-23541727
 
-- name: Andrew Clark
-  pic: 3
-  position: Lead Developer
+- name: Dean Attali
+  pic: dean
+  position: Associate - Developer
   social:
     - title: twitter
       url: #
@@ -71,6 +71,15 @@ social:
 address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
+  
+  # --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
 
 # Build settings
 markdown: kramdown
