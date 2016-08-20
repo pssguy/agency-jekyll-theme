@@ -1,6 +1,6 @@
 ---
-title: NameChange
-subtitle: Website Design
+title: Workshops and Training
+subtitle: Education
 layout: default
 modal-id: 2
 date: 2014-07-17
