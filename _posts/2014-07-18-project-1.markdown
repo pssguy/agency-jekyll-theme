@@ -4,8 +4,8 @@ subtitle: Shiny App Maps
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: bcGov600.png
+thumbnail: bcGov-thumbnail.png
 alt: image-alt
 project-date: 2016
 client: Province of BC
