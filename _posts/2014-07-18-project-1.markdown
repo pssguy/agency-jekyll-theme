@@ -11,6 +11,6 @@ project-date: 2016
 client: Province of BC
 category: Shiny App
 description: Shiny Apps that take Open Source Goverment data and provide maps/charts and tables to aid decision makers and keep
-citizens well-informed
+
 
 ---
