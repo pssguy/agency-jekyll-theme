@@ -4,13 +4,13 @@ subtitle: Shiny App
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: music.png
+thumbnail: music-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Shiny App
-description: Set yourself out from the crowd as we help you develop your own app. This one provides charts and embedded music links. 
+description: Set yourself out from the crowd as we help you develop your own app. This one provides charts and embedded music videos. 
 
 
 ---
