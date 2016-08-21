@@ -1,5 +1,5 @@
 ---
-title: Comple Sports Site
+title: Complex Sports Site
 subtitle: Shiny Apps
 layout: default
 modal-id: 6
